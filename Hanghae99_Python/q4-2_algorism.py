@@ -12,6 +12,8 @@ morse_code = {
 }
 
 for key in mose_input:
+    morse_code[key]
     sum_morse = ' '.join(morse_code[key])
     print(sum_morse, end = '')
     
+# print(''.join([morse_code[char] for char in mose_input]))
