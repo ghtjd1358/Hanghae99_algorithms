@@ -7,7 +7,7 @@ for value in gildong.values() :
 
     print(f'평균점수 : {results}')
 
-# 2. 자연수 13이 홀수인지 짝수인지 판별할 수 있는 방법에 대해 알아보자.
+# 2. 자연수 13이 홀수인지 짝수인지 판별할 수 있는 방법에 대해 알아보자....
 int_value = 13
 
 if int_value % 2 == 0 :
